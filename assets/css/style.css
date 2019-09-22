@@ -93,6 +93,10 @@ hr {
     padding-right: 15px;
 }
 
+p{
+	line-height: 1.5em
+}
+
 footer{
 	color: #cccccc;
 	background-color: #666666;
